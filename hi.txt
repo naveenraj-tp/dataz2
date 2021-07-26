@@ -3,3 +3,6 @@ hi all
 how are you // feature first commit
 
 i am fine // feature first commit
+
+
+hi itz me 
